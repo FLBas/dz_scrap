@@ -1,0 +1,80 @@
+[
+    {
+        "vacancy": "Старший программист-разработчик (Python/Django) / Senior back-end developer",
+        "city": "Москва",
+        "salary": "200000 – 300000 руб.",
+        "link": "https://spb.hh.ru/vacancy/80002041?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Программист Python (Junior-Middle)",
+        "city": "Москва",
+        "salary": "60000 – 100000 руб.",
+        "link": "https://spb.hh.ru/vacancy/81780083?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Младший специалист отдела разработки (Python) / Специалист по парсингу данных",
+        "city": "Москва",
+        "salary": "до 70000 руб.",
+        "link": "https://spb.hh.ru/vacancy/81639879?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Junior/Middle Python-developer",
+        "city": "Санкт-Петербург",
+        "salary": "от 50000 руб.",
+        "link": "https://spb.hh.ru/vacancy/81949300?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Middle Разработчик Python (Backend)",
+        "city": "Москва",
+        "salary": "180000 – 240000 руб.",
+        "link": "https://spb.hh.ru/vacancy/81974265?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Python Developer",
+        "city": "Москва",
+        "salary": "150000 – 200000 руб.",
+        "link": "https://spb.hh.ru/vacancy/81442089?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Middle Python-разработчик",
+        "city": "Москва",
+        "salary": "140000 – 250000 руб.",
+        "link": "https://spb.hh.ru/vacancy/82040028?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Senior Algo Trading Python developer",
+        "city": "Москва",
+        "salary": "5000 – 8000 USD",
+        "link": "https://spb.hh.ru/vacancy/81307690?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Middle+ Python Developer (backend)",
+        "city": "Санкт-Петербург",
+        "salary": "250000 – 300000 руб.",
+        "link": "https://spb.hh.ru/vacancy/81587055?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Middle Python Backend Developer",
+        "city": "Москва",
+        "salary": "от 200000 руб.",
+        "link": "https://spb.hh.ru/vacancy/81834757?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Разработчик C# / Python",
+        "city": "Москва",
+        "salary": "300000 – 500000 руб.",
+        "link": "https://spb.hh.ru/vacancy/71147348?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Разработчик Python",
+        "city": "Москва",
+        "salary": "от 150000 руб.",
+        "link": "https://spb.hh.ru/vacancy/81657212?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Python-разработчик",
+        "city": "Москва",
+        "salary": "120000 – 180000 руб.",
+        "link": "https://spb.hh.ru/vacancy/80881200?from=vacancy_search_list&query=python"
+    }
+]
